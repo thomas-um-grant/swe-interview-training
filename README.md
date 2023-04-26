@@ -11,37 +11,37 @@
 There is no secret, just practice coding interviews to get good at it.
 
 ### Master each data structure:
-- Arrays / Lists: [List in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/list.py), [Array in C++]
-- Linked Lists:  [LinkedList in Python], [LinkedList in C++]
-- Hash Tables / Dictionaries: [Dictionary in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/dict.py), [Hash Table in C++]
-- Stacks and Queues: [Stack and Queue in Python], [Stack and Queue in C++]
-- Strings: [String in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/string.py), [String in C++]
-- Graphs: [Graph in Python], [Graph in C++]
-- Trees: [Tree in Python], [Tree in C++]
+- Arrays / Lists: [List in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/list.py)
+- Linked Lists:  [LinkedList in Python]
+- Hash Tables / Dictionaries: [Dictionary in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/dict.py)
+- Stacks and Queues: [Stack and Queue in Python]
+- Strings: [String in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/string.py)
+- Graphs: [Graph in Python]
+- Trees: [Tree in Python]
 
 ### Master most common algorithms:
-- Linear Search
-- Binary Search
-- Bubble Sort
-- Insertion Sort
-- Selection Sort
-- Quick Sort: [Quick sort in Python], [Quick sort in C++]
-- Merge Sort: [Merge sort in Python], [Merge sort in C++]
-- Heap Sort:
-- Counting Sort
-- Radix Sort
-- Bucket Sort
-- Depth-First Search: [DFS in Python], [DFS in C++]
-- Breath-First Search: [BFS in Python], [BFS in C++]
-- Dijkstra's Algorithm
-- Bellman-Ford Algorithm
-- Prim's Algorithm
-- Kruskal's Algorithm
-- Topological Sort
-- Dynamic Programming
-- Knapsack Problem
-- Traveling Salesman Problem (TSP)
-- Maximum Flow
-- Minimum Spanning Tree
+- Linear Search: [Linear Search in Python]
+- Binary Search: [Binary Search in Python]
+- Bubble Sort: [Bubble Sort in Python]
+- Insertion Sort: [Insertion Sort in Python]
+- Selection Sort: [Selection Sort in Python]
+- Quick Sort: [Quick sort in Python]
+- Merge Sort: [Merge sort in Python]
+- Heap Sort: [Heap Sort in Python]
+- Counting Sort: [Counting Sort in Python]
+- Radix Sort: [Radix Sort in Python]
+- Bucket Sort: [Bucket Sort in Python]
+- Depth-First Search: [DFS in Python]
+- Breath-First Search: [BFS in Python]
+- Dijkstra's Algorithm: [Dijkstra's Algorithm in Python]
+- Bellman-Ford's Algorithm: [Bellman-Ford's Algorithm in Python]
+- Prim's Algorithm: [Prim's Algorithm in Python]
+- Kruskal's Algorithm: [Kruskal's Algorithm in Python]
+- Topological Sort: [Topological Sort in Python]
+- Dynamic Programming: [Dynamic Programming in Python]
+- Knapsack Problem: [Knapsack Problem in Python]
+- Traveling Salesman Problem (TSP): [TSP in Python]
+- Maximum Flow: [Maximum Flow in Python]
+- Minimum Spanning Tree: [Minimum Spanning Tree in Python]
 
 ## Design
