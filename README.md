@@ -12,18 +12,18 @@ There is no secret, just practice coding interviews to get good at it.
 
 ### Master each data structure:
 - Arrays / Lists: [List in Python](), [Array in C++]
-- Linked Lists:  [LinkedList in Python](), [LinkedList in C++]() 
-- Hash Tables / Dictionaries: [Dictionary in Python](), [Hash Table in C++]() 
-- Stacks and Queues: [Stack and Queue in Python](), [Stack and Queue in C++]() 
-- Strings: [String in Python](), [String in C++]() 
-- Graphs: [Graph in Python](), [Graph in C++]() 
-- Trees: [Tree in Python](), [Tree in C++]() 
+- Linked Lists:  [LinkedList in Python], [LinkedList in C++]
+- Hash Tables / Dictionaries: [Dictionary in Python], [Hash Table in C++]
+- Stacks and Queues: [Stack and Queue in Python], [Stack and Queue in C++]
+- Strings: [String in Python], [String in C++]
+- Graphs: [Graph in Python], [Graph in C++]
+- Trees: [Tree in Python], [Tree in C++]
 
 ### Other basic things that should be memorized for convenience:
-- Depth-First Search: [DFS in Python](), [DFS in C++]()
-- Breath-First Search: [BFS in Python](), [BFS in C++]()
-- Max and Min heaps: [Max and Min heaps in Python](), [Max and Min heaps in C++]()
-- Merge sort: [Merge sort in Python](), [Merge sort in C++]()
-- Quick sort: [Quick sort in Python](), [Quick sort in C++]()
+- Depth-First Search: [DFS in Python], [DFS in C++]
+- Breath-First Search: [BFS in Python], [BFS in C++]
+- Max and Min heaps: [Max and Min heaps in Python], [Max and Min heaps in C++]
+- Merge sort: [Merge sort in Python], [Merge sort in C++]
+- Quick sort: [Quick sort in Python], [Quick sort in C++]
 
 ## Design
