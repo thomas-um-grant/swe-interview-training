@@ -11,7 +11,7 @@
 There is no secret, just practice coding interviews to get good at it.
 
 ### Master each data structure:
-- Arrays / Lists: [List in Python](), [Array in C++]()
+- Arrays / Lists: [List in Python](), [Array in C++]
 - Linked Lists:  [LinkedList in Python](), [LinkedList in C++]() 
 - Hash Tables / Dictionaries: [Dictionary in Python](), [Hash Table in C++]() 
 - Stacks and Queues: [Stack and Queue in Python](), [Stack and Queue in C++]() 
