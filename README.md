@@ -19,11 +19,29 @@ There is no secret, just practice coding interviews to get good at it.
 - Graphs: [Graph in Python], [Graph in C++]
 - Trees: [Tree in Python], [Tree in C++]
 
-### Other basic things that should be memorized for convenience:
+### Master most common algorithms:
+- Linear Search
+- Binary Search
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Quick Sort: [Quick sort in Python], [Quick sort in C++]
+- Merge Sort: [Merge sort in Python], [Merge sort in C++]
+- Heap Sort:
+- Counting Sort
+- Radix Sort
+- Bucket Sort
 - Depth-First Search: [DFS in Python], [DFS in C++]
 - Breath-First Search: [BFS in Python], [BFS in C++]
-- Max and Min heaps: [Max and Min heaps in Python], [Max and Min heaps in C++]
-- Merge sort: [Merge sort in Python], [Merge sort in C++]
-- Quick sort: [Quick sort in Python], [Quick sort in C++]
+- Dijkstra's Algorithm
+- Bellman-Ford Algorithm
+- Prim's Algorithm
+- Kruskal's Algorithm
+- Topological Sort
+- Dynamic Programming
+- Knapsack Problem
+- Traveling Salesman Problem (TSP)
+- Maximum Flow
+- Minimum Spanning Tree
 
 ## Design
