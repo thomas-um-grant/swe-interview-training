@@ -11,11 +11,11 @@
 There is no secret, just practice coding interviews to get good at it.
 
 ### Master each data structure:
-- Arrays / Lists: [List in Python](), [Array in C++]
+- Arrays / Lists: [List in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/list.py), [Array in C++]
 - Linked Lists:  [LinkedList in Python], [LinkedList in C++]
-- Hash Tables / Dictionaries: [Dictionary in Python], [Hash Table in C++]
+- Hash Tables / Dictionaries: [Dictionary in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/dict.py), [Hash Table in C++]
 - Stacks and Queues: [Stack and Queue in Python], [Stack and Queue in C++]
-- Strings: [String in Python], [String in C++]
+- Strings: [String in Python](https://github.com/thomas-um-grant/swe-interview-training/blob/24cf298dc8e9c15222eb1eddf089c818be13316b/Algo/string.py), [String in C++]
 - Graphs: [Graph in Python], [Graph in C++]
 - Trees: [Tree in Python], [Tree in C++]
 
